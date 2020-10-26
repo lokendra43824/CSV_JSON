@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K1+kWdCff5seaMuPpPVHqECuJGFg6AQr/j5Y1+wqV1HlSjiQ0mCu8buQQigCtHzBVc92JP0v9qNRGHeivC47MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NAGENDRA AND JANAKI\\source\\repos\\CsvFile\\CsvFile\\JSONFileDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NAGENDRA AND JANAKI\\.nuget\\packages\\csvhelper\\15.0.8\\csvhelper.15.0.8.nupkg.sha512",
+    "C:\\Users\\NAGENDRA AND JANAKI\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\NAGENDRA AND JANAKI\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

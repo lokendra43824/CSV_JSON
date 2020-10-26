@@ -1,0 +1,4 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.AssemblyInfo.cs

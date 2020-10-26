@@ -1,0 +1,16 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\JSONFileDemo.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\JSONFileDemo.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\JSONFileDemo.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\JSONFileDemo.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\JSONFileDemo.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\JSONFileDemo.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.csproj.CopyComplete
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.genruntimeconfig.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\CsvFile\CsvFile\obj\Debug\netcoreapp3.1\JSONFileDemo.csproj.CoreCompileInputs.cache
