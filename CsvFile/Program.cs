@@ -8,8 +8,8 @@ namespace CsvFileJSONFIleDemo
     {
         static void Main(string[] args)
         {
-            // CsvHandler.ImplementCsvDataHandling();
-            ReadCSV_And_Write_JSON.JsonWriter();
+            CsvHandler.ImplementCsvDataHandling();
+            //ReadCSV_And_Write_JSON.JsonWriter();
         }
     }
 }
